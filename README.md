@@ -53,11 +53,3 @@ To maintain professional standard validation and guard against overfitting, the 
 [ Model Training (RF / SVM) ] ──────────────────────► [ Production Inference Evaluator ]
 
 
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-Ensure your Python environment has the following libraries installed:
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn joblib
